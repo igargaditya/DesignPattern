@@ -1,0 +1,4 @@
+1. The problem of adding new concrete classes is not even more inhertiance 
+2. Composition should be favoured over inhertiance 
+3. Uses of interfaces with code that changes and add new concrete classes to that interface 
+4. Do not repeat yourself and follow Open Closed Principle 
