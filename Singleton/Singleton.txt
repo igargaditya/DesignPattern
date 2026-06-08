@@ -1,0 +1,5 @@
+1. Objects are created whenever constructors are called so we have to make constructors private
+2. We would have to make a method that returns an object of that class 
+3. But without creating object we cannot call the method unless that method is static 
+4. Hence we make that method static and in that we have to make sure that object is made only once 
+5. Make a variable which holds that object and if already created then returns that object 
